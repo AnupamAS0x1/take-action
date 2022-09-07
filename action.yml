@@ -1,6 +1,6 @@
-name: publish-unit-test-results
-description: This is an action to assign yourself to an issue for a repo you are not a contributor to.
-author: Brian Douglas
+name: nexploit-wait-for-issues
+description: This is an action for POC
+author: AnupamAS01
 branding:
   icon: 'thumbs-up'
   color: 'white'
